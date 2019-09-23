@@ -1,5 +1,6 @@
 package com.kangyonggan.demo;
 
+import com.kangyonggan.demo.mapper.UserMapper;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

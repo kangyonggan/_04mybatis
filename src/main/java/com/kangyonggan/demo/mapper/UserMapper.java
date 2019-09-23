@@ -1,13 +1,12 @@
-package com.kangyonggan.demo;
+package com.kangyonggan.demo.mapper;
 
-import org.apache.ibatis.annotations.Mapper;
+import com.kangyonggan.demo.User;
 import org.apache.ibatis.annotations.Param;
 
 /**
  * @author kangyonggan
  * @since 2019-09-23
  */
-@Mapper
 public interface UserMapper {
 
     /**
